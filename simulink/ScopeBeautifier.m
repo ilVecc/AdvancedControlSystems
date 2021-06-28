@@ -60,8 +60,9 @@ for i=1:length(var.signals)
     subplot(n,m,idx(i));
     plot(var.time, squeeze(var.signals(i).values(1,1,:)),'m');
     hold on;
-    plot(var.time, squeeze(var.signals(i).values(2,1,:)),'g');
+    plot(var.time, squeeze(var.signals(i).values(1,2,:)),'g');
     title(var.signals(i).label)
 end
+sgtitle('Force') 
 
 clear n m i idx var
