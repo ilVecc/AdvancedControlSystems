@@ -1,4 +1,4 @@
-⚠️ Cari colleghi italiani: le star sono gratis 😉
+⚠ Dear UNIVR colleagues, stars are free of charge ;) ⚠
 
 # AdvancedControlSystems
 Assignments for the Advanced Control Systems course @ UNIVR
